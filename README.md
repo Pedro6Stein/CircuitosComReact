@@ -4,9 +4,9 @@
 
 ---
 
-## 🎬 Demonstração
+## 📸  Demonstração
 
-![CircuitosComReact](assets/CircuitosComReact.jpg)
+![CircuitosComReact](https://raw.githubusercontent.com/Pedro6Stein/CircuitosComReact/Calculo2/src/assets/CircuitosComReact.jpg)
 
 
 ## 🚀 Funcionalidades
