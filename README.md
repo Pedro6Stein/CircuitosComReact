@@ -4,6 +4,11 @@
 
 ---
 
+## 🎬 Demonstração
+
+![CircuitosComReact](assets/CircuitosComReact.jpg)
+
+
 ## 🚀 Funcionalidades
 
 - **Simulação instantânea** de circuitos em série e paralelo  
